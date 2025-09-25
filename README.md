@@ -142,5 +142,5 @@ Regional Targeting → Focus marketing in under-served states with lower default
 
 📸 Screenshots / Demos
 
-Summary : ""
+Summary : "https://github.com/Mansi-Yadav01/Bank_loan-/blob/main/summary.png"
 Overview : ""
